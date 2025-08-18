@@ -74,3 +74,4 @@ if name and number_input:
 
     except ValueError:
         st.error("🚫 Please enter a valid whole number.")
+
